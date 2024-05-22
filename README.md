@@ -42,7 +42,7 @@
 
 ## 📈 Coding Profiles
 <a href="[https://leetcode.com/rajkumardakey831/]">
-<img height="185" src="https://leetcard.jacoblin.cool/rajkumardakey831?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/mohitagrawal_/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="rahul21r Leetcode Stats"/>
+<img height="165" src="https://leetcard.jacoblin.cool/rajkumardakey831?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/rajkumardakey831_/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="rajkumardakey831 Leetcode Stats"/>
 </a>
 </span>
 
@@ -51,7 +51,7 @@
 <span>
     <div style="display: flex; justify-content: center; align-items: center;">
         <a href="https://github.com/RajkumarDake">
-            <img height="165" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RajkumarDake&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" style="margin: 10px;" />
+            <img height="170" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RajkumarDake&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" style="margin: 10px;" />
             <img height="165" src="https://github-readme-stats-redheadphone.vercel.app/api?username=RajkumarDake&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" style="margin: 10px;" />
         </a>
     </div>

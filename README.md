@@ -51,8 +51,8 @@
 <span>
     <div style="display: flex; justify-content: center; align-items: center;">
         <a href="https://github.com/RajkumarDake">
-            <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RajkumarDake&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" style="margin: 10px;" />
-            <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=RajkumarDake&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" style="margin: 10px;" />
+            <img height="165" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=RajkumarDake&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" style="margin: 10px;" />
+            <img height="165" src="https://github-readme-stats-redheadphone.vercel.app/api?username=RajkumarDake&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" style="margin: 10px;" />
         </a>
     </div>
 </span>

@@ -21,8 +21,11 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/rajkumardakey831/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajkumardakey831/" height="30" width="40" /></a>
 </p>
 
-## 🧩 Languages and Tools:
 
+<br>
+
+## 🧩 Languages and Tools:
+<br>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">

@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajkumarDake&label=Profile%20views&color=0e75b6&style=flat" alt="RajkumarDake" /> </p>
 
 
-- 🔭 I’m currently working on **Full stack applications**
+- 🔭 I’m currently working at **InfoEdge as a Software Enginner**
 
 - 🌱 I’m currently learning **Android**
 

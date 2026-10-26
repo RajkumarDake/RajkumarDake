@@ -65,7 +65,7 @@ I build backend platforms that run under real traffic, and I solve hard algorith
 ### GitHub and LeetCode
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RajkumarDake&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=84cc16&icon_color=84cc16" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RajkumarDake&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=github_dark&title_color=84cc16&icon_color=84cc16" alt="GitHub stats">
   <img height="165" src="https://streak-stats.demolab.com?user=RajkumarDake&theme=github-dark-blue&hide_border=true&ring=84CC16&fire=84CC16&currStreakLabel=84CC16" alt="GitHub streak">
 </p>
 
